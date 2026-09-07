@@ -1,0 +1,6 @@
+{
+  "name": "Sales & Orders Analytics Dashboard",
+  "description": "Interactive multi-dimensional analytics dashboard visualizing product orders, revenue trends, basket sizes, and payment methods with dynamic chart views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
